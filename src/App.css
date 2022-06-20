@@ -1,0 +1,50 @@
+.App {
+	text-align: center;
+}
+
+.div-left {
+	float: left;
+	margin-top: 50px;
+	width: 35%;
+}
+
+.div-border {
+	margin: 20px 30px 30px 30px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	border: 2px solid rgb(126, 125, 125)
+}
+
+.react-datepicker__input-container {
+	padding-top: 10px;
+}
+
+.title-input {
+	width: 70%;
+}
+
+.button-submit {
+	margin-top: 20px;
+	color: white;
+	background-color: black;
+	padding: 10px;
+	border-radius: 50px;
+}
+
+.rbc-header {
+	padding-bottom: 25px;
+	border: 1px solid black
+}
+
+hr.solid {
+	border-top: 3px solid rgb(0, 0, 0);
+	width: 95%;
+}
+
+.div-right {
+	float: right;
+	margin-top: 50px;
+	margin-right: 50px;
+	height: 400px;
+	width: 60%;
+}
